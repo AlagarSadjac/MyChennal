@@ -16,12 +16,6 @@ My Channel App என்பது என் YouTube சேனலுக்கா�
 ⚡ Fast Loading
 📱 Clean & Simple User Interface
 
-
-![Channel1](https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91d379956e)
-![Channel2](https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f7c1bb8a6)
-![Channel3](https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437fbe2cf16)
-![Channel4](https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc13f827b6)
-
 🛠️ Built With
 Java
 Android Studio
@@ -29,7 +23,12 @@ XML Layout
 WebView / YouTube Integration
 REST API (if used)
 
-📸 Screenshots
+
+
+![Channel1](https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91d379956e)
+![Channel2](https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f7c1bb8a6)
+![Channel3](https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437fbe2cf16)
+![Channel4](https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc13f827b6)
 
 🚀 How To Use
 Install the APK
