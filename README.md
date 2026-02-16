@@ -1,3 +1,6 @@
+சூப்பர் 👌 Brindha Sri!
+உங்க My Channel App காக GitHub-ல் போட ஒரு neat, stylish README.md content கீழே கொடுக்கிறேன்.
+நீங்கள் இதை copy பண்ணி நேரடியாக GitHub README.md ல paste பண்ணலாம்.
 🎵 My Channel App
 📱 About The App
 My Channel App என்பது என் YouTube சேனலுக்காக உருவாக்கப்பட்ட ஒரு Android Application.
@@ -22,7 +25,9 @@ REST API (if used)
 📸 Screenshots
 (Here you can add your app screenshots)
 Md
-
+Copy code
+![Home Screen](screenshot1.png)
+![Songs List](screenshot2.png)
 🚀 How To Use
 Install the APK
 Open the App
@@ -45,3 +50,10 @@ YouTube: https://youtube.com/yourchannel�
 ⭐ Support
 If you like this project, please ⭐ the repository.
 Your support means a lot ❤️
+இது clean, professional, stylish format.
+நீங்க வேணும்னா:
+Emoji இல்லாமல் corporate style version
+அதிக design markdown style
+Developer resume style version
+Pure English version
+என்ன version வேண்டும் சொல்லுங்க 😊
