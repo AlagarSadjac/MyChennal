@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685648696751",
+    "project_id": "mychannel-6f958",
+    "storage_bucket": "mychannel-6f958.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685648696751:android:3ea3c2213769e1d14b0b5a",
+        "android_client_info": {
+          "package_name": "com.nature.channel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6DRqSjEOVjF10fEOMpla5UE_8dBj9nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
