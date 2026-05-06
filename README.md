@@ -52,6 +52,5 @@ If you like this project, please ⭐ the repository.
 Your support means a lot ❤️
 
 ## 📲 Download the App
-You can download the latest APK from the link below:
-
+You can download the latest APK from the link below
 [Download APP](https://github.com/AlagarSadjac/MyChannel/releases/download/V1.0.0/app-debug.apk)
